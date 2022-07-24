@@ -1,21 +1,24 @@
-
-# fakeappstore
 <p align="center">
-  <img align="center" width="100" src="[/logo.png](https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/delivery-pickup-icons-202103_GEO_CN?wid=1138&hei=856&fmt=jpeg&qlt=90&.v=1624605265000)" />
+  <img align="center" width="100" src="./md_assets/icon_appstore.png" />
 
-  <h1 align="center">Github Readme Quotes</h1>
+  <h1 align="center">fakeappstore</h1>
+  <p align="center">
+    <a href="https://github.com/xiqi99520/github-readme-quotes/issues">
+      <img src="https://img.shields.io/github/issues/PiyushSuthar/github-readme-quotes?style=flat-square">
+    </a>
+    <a href="https://github.com/xiqi99520/github-readme-quotes/pulls">
+      <img src="https://img.shields.io/github/issues-pr/PiyushSuthar/github-readme-quotes?style=flat-square">
+    </a>
+  </p>
 </p>
 
 > 这是一个极简的appstore，它只包含了榜单、畅销排行以及搜索功能。
 
-<!-- Badges -->
+## 效果
 <p align="center">
-  <a href="https://github.com/xiqi99520/github-readme-quotes/issues">
-    <img src="https://img.shields.io/github/issues/PiyushSuthar/github-readme-quotes?style=flat-square">
-  </a>
-  <a href="https://github.com/xiqi99520/github-readme-quotes/pulls">
-    <img src="https://img.shields.io/github/issues-pr/PiyushSuthar/github-readme-quotes?style=flat-square">
-  </a>
+  <img src="./md_assets/pic1.png">
+  <img src="./md_assets/pic2.png">
+  <img src="./md_assets/pic3.png">
 </p>
 
 ## Build Setup
