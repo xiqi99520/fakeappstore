@@ -1,0 +1,28 @@
+// 全局工具样式
+.flex {
+  display: flex;
+}
+
+/* 超出部分省略号处理 */
+.omit {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+::-webkit-input-placeholder {
+  /* WebKit browsers，webkit内核浏览器 */
+  color: #bfbfbf;
+}
+:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #bfbfbf;
+}
+::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #bfbfbf;
+}
+:-ms-input-placeholder {
+  /* Internet Explorer 10+ */
+  color: #bfbfbf;
+}
