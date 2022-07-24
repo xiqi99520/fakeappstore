@@ -1,11 +1,13 @@
 {
   "name": "fakeappstore",
   "version": "0.1.0",
+  "author": "feng",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "port": "vue-cli-service serve --open --mode port"
   },
   "dependencies": {
     "amfe-flexible": "^2.2.1",
@@ -13,7 +15,8 @@
     "core-js": "^3.6.5",
     "postcss-pxtorem": "^5.1.1",
     "register-service-worker": "^1.7.1",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "webpack-bundle-analyzer": "^4.5.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.11",

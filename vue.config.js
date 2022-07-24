@@ -26,5 +26,10 @@ module.exports = {
       navigateFallback: '/',
       navigateFallbackBlacklist: [/\/api\//]
     }
+  },
+  chainWebpack: (config) => {
+    config.when(process.env.VUE_APP_TYPE === 'port', (config) => {
+      config.plugin('webpack-bundle-analyzer').use(require('webpack-bundle-analyzer').BundleAnalyzerPlugin);
+    });
   }
 }
