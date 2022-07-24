@@ -21,6 +21,9 @@
   <img style="width: 30%" src="./md_assets/pic2.png">
 </p>
 
+## 视频 - 点击图片进行播放
+[![Watch the video](https://i.ytimg.com/vi/lrd1GcE0O1M/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDopLZLN8iHnYRKTzK8bqFhZGa0mw)](https://youtube.com/shorts/lrd1GcE0O1M?feature=share)
+
 ## Build Setup
 
 ```bash
