@@ -15,10 +15,10 @@
 > 这是一个极简的appstore，它只包含了榜单、畅销排行以及搜索功能。
 
 ## 效果
-<p align="center">
-  <img src="./md_assets/pic1.png">
-  <img src="./md_assets/pic2.png">
-  <img src="./md_assets/pic3.png">
+<p align="center"  style="display: flex; justify-content: space-around;">
+  <img style="width: 30%" src="./md_assets/pic1.png">
+  <img style="width: 30%" src="./md_assets/pic3.png">
+  <img style="width: 30%" src="./md_assets/pic2.png">
 </p>
 
 ## Build Setup
